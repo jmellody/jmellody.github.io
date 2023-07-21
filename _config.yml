@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "James Mellody"
 title_separator          : "-"
 name                     : &name "James Mellody"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "James Mellody"
   avatar           : "profile.png"
   bio              : "PhD Candidate at the MIT Sloan School of Management"
-  location         : "Location"
+  location         :
   employer         :
   pubmed           :
   googlescholar    :
