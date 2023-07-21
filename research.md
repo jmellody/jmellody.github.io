@@ -29,6 +29,13 @@ Organizations face two main options for managing diversity: a “colorblind” a
 
 White-collar employees are increasingly overworking, with negative individual and organizational consequences. Pressures for long intense hours often come from clients and are reinforced by coworkers’ concertive controls, and the increasing quantification of work has, in many cases, tightened such controls. We examine if and how employees might rely upon quantification to, in contrast, limit overwork. We draw on data from a 21-month ethnography of teams of IT professionals who work for clients in finance. We find that while these workers faced pressure to overwork, they managed this tension through a process we label “concerted quantification.” In this process, team members commensurate tasks into smaller numeric units that are then summed into a larger numeric figure that represents the work the team will accomplish in a two-week period. They then leverage this quantification in two ways: to openly justify maintaining their workload, particularly when facing peer pressure to take on more work, by pointing to numbers as collective, codified team decisions; and to obscure work changes from clients. To support these actions, workers legitimize quantification to clients. Overall, we find that quantifying processes both (a) help teams determine an appropriate amount of work to take on without engaging in overwork, and (b) set clients’ expectations of success in this context of expert, professional work. We contribute to research on overwork, concertive control, and quantification by highlighting how quantification, through opaqueness and transparency, can allow white-collar workers to limit overwork.
 
+# Works in Progress
+
+“Sources of Cultural Change in Organizations”
+
+“Keeping Time: Interaction Scripts as Coordinating Mechanisms for Self-Organizing Teams.” (with
+Vanessa Conzon)
+
 
 
 
