@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James Mellody"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "James Mellody"
 description              : &description "personal description"
@@ -83,8 +83,8 @@ author:
   name             : "James Mellody"
   avatar           : "mellody_profile_image_cropped.jpg"
   bio              : "jmellody@mit.edu"
-  location         :
-  employer         :
+  location         : "Cambridge, MA"
+  employer         : "MIT Sloan School of Management"
   pubmed           :
   googlescholar    :
   email            :
