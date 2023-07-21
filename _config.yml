@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "James Mellody"
   avatar           : "mellody_profile_image_cropped.jpg"
-  bio              : "PhD Candidate at the MIT Sloan School of Management"
+  bio              : "jmellody@mit.edu"
   location         :
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "jmellody@mit.edu"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
