@@ -7,9 +7,9 @@ redirect_from:
   - /research
 ---
 
-# Job Market Paper
+# Papers Under Review
 
-## A Different Kind of Tradeoff: Partitioning in Ecologies of Attention
+## Job Market Paper: A Different Kind of Tradeoff: Partitioning in Ecologies of Attention
 
 ### Under review at the *American Sociological Review*
 
