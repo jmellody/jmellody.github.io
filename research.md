@@ -11,8 +11,6 @@ redirect_from:
 
 ## Job Market Paper: A Different Kind of Tradeoff: Partitioning in Ecologies of Attention
 
-### Under review at the *American Sociological Review*
-
 What determines the diversity of cultural material produced in a market? In many
 consumer product markets, periods of competition support cultural diversity, but alternating periods of concentration drive cultural homogeneity. A stable partition can emerge, separating a culturally homogenous market center from a culturally diverse periphery. Cultural diversity exists temporarily, or is relegated to the market fringe. These conditions are reflected in the choice faced by organizations: grow in the market center by producing culturally generic material, or attract a smaller, more engaged consumer base by producing culturally distinct material in the periphery. I
 examine a different market context: ecologies of attention, in which consumers can readily engage with multiple organizations (e.g., online communities, voluntary organizations) simultaneously and easily transition from being consumers to also producers of content. I study Reddit as a case of an attention ecology, leveraging user participation data and the text of over 2 billion comments from over 14 thousand subreddits. I find that subreddits face a tradeoff contingent on their location in the resource space, enabling cultural diversity to survive in crowded, competitive locations, while cultural homogeneity emerges in sparse, uncompetitive areas. I draw on these findings to introduce
