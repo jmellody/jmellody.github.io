@@ -16,7 +16,7 @@ consumer product markets, periods of competition support cultural diversity, but
 examine a different market context: ecologies of attention, in which consumers can readily engage with multiple organizations (e.g., online communities, voluntary organizations) simultaneously and easily transition from being consumers to also producers of content. I study Reddit as a case of an attention ecology, leveraging user participation data and the text of over 2 billion comments from over 14 thousand subreddits. I find that subreddits face a tradeoff contingent on their location in the resource space, enabling cultural diversity to survive in crowded, competitive locations, while cultural homogeneity emerges in sparse, uncompetitive areas. I draw on these findings to introduce
 a broader theory of market partitioning.
 
-Download the latest copy of my job market paper here: <a href="files/Mellody_Job_Market_Paper.pdf" target="_blank">here.</a>
+Download the latest copy of my job market paper <a href="files/Mellody_Job_Market_Paper.pdf" target="_blank">here.</a>
 
 ## Concerted Quantification: How Expert Teams Reconcile Overwork and Client Satisfaction (with Vanessa Conzon)
 
