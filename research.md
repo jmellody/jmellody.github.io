@@ -9,7 +9,7 @@ redirect_from:
 
 # Job Market Paper
 
-## An Ecology of Attention: Resource Allocation and Culture in Online Communitie
+## An Ecology of Attention: Resource Allocation and Culture in Online Communities
 
 Online communities are increasingly important sites of social and economic life. These communities depend on the attention of member resources in order to survive. This article asks the question: how is attention allocated in online communities? Early work highlighted a key promise of the internet: to counteract homogenizing cultural forces in society and provide a more egalitarian context for a greater diversity of content to find an audience. A large body of literature has found instead that the allocation of attention online resembles resource allocation in many offline settings: characterized by power-law distributions in which a few offerings attract the bulk of attention. Moving beyond a distributional analysis of attention allocation, and leveraging an underutilized pattern in individual-level attention allocation online, I examine where and how different kinds of communities can succeed online. I find similarities to existing work in terms of power-law distributional patterns, where the most generic communities attract the bulk of attention. However, I find a key difference from prior studies based on where different kinds of communities can succeed: while niche communities have difficulty growing large, they can find success in the center of the attention ecology, right next to the largest, most generic communities. This suggests a difference in how the allocation of attention occurs online, and a key way in which the internet can bolster the prominence of a diversity of cultural offerings.
 
