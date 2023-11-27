@@ -7,16 +7,15 @@ redirect_from:
   - /research
 ---
 
-# Papers Under Review
+# Job Market Paper
 
-## Job Market Paper: A Different Kind of Tradeoff: Partitioning in Ecologies of Attention
+## An Ecology of Attention: Resource Allocation and Culture in Online Communitie
 
-What determines the diversity of cultural material produced in a market? In many
-consumer product markets, periods of competition support cultural diversity, but alternating periods of concentration drive cultural homogeneity. A stable partition can emerge, separating a culturally homogenous market center from a culturally diverse periphery. Cultural diversity exists temporarily, or is relegated to the market fringe. These conditions are reflected in the choice faced by organizations: grow in the market center by producing culturally generic material, or attract a smaller, more engaged consumer base by producing culturally distinct material in the periphery. I
-examine a different market context: ecologies of attention, in which consumers can readily engage with multiple organizations (e.g., online communities, voluntary organizations) simultaneously and easily transition from being consumers to also producers of content. I study Reddit as a case of an attention ecology, leveraging user participation data and the text of over 2 billion comments from over 14 thousand subreddits. I find that subreddits face a tradeoff contingent on their location in the resource space, enabling cultural diversity to survive in crowded, competitive locations, while cultural homogeneity emerges in sparse, uncompetitive areas. I draw on these findings to introduce
-a broader theory of market partitioning.
+Online communities are increasingly important sites of social and economic life. These communities depend on the attention of member resources in order to survive. This article asks the question: how is attention allocated in online communities? Early work highlighted a key promise of the internet: to counteract homogenizing cultural forces in society and provide a more egalitarian context for a greater diversity of content to find an audience. A large body of literature has found instead that the allocation of attention online resembles resource allocation in many offline settings: characterized by power-law distributions in which a few offerings attract the bulk of attention. Moving beyond a distributional analysis of attention allocation, and leveraging an underutilized pattern in individual-level attention allocation online, I examine where and how different kinds of communities can succeed online. I find similarities to existing work in terms of power-law distributional patterns, where the most generic communities attract the bulk of attention. However, I find a key difference from prior studies based on where different kinds of communities can succeed: while niche communities have difficulty growing large, they can find success in the center of the attention ecology, right next to the largest, most generic communities. This suggests a difference in how the allocation of attention occurs online, and a key way in which the internet can bolster the prominence of a diversity of cultural offerings.
 
 Download the latest copy of my job market paper <a href="https://jmellody.github.io/files/Mellody_Job_Market_Paper.pdf" target="_blank">here.</a>
+
+# Papers Under Review
 
 ## Concerted Quantification: How Expert Teams Reconcile Overwork and Client Satisfaction (with Vanessa Conzon)
 
