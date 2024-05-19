@@ -40,10 +40,6 @@ Organizations face two main options for managing diversity: a “colorblind” a
 
 “Collective Action Online: Networks and Language of a Virtual Investor Movement.”
 
-“Social and Cultural Networks in Digital Crowdfunding Platforms.”
-
-“Community Moderation and User Engagement on Reddit.”
-
 “Sources of Cultural Change in Online Communities.”
 
 “Keeping Time: Interaction Scripts as Coordinating Mechanisms for Self-Organizing Teams.” (with Vanessa Conzon) 
