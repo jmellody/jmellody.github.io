@@ -9,13 +9,14 @@ redirect_from:
 
 # Job Market Paper
 
-## Attention Allocation in Online Communities
+## Allocating Attention: Cultural Exploration in Online Communities
 
-Online communities are increasingly important sites of social and economic life. These communities depend on the attention of member resources in order to survive. This article asks the question: how is attention allocated in online communities? Early work highlighted a key promise of the internet: to counteract homogenizing cultural forces in society and provide a more egalitarian context for a greater diversity of content to find an audience. A large body of literature has found instead that the allocation of attention online resembles resource allocation in many offline settings: characterized by power-law distributions in which a few offerings attract the bulk of attention. Moving beyond just the distribution of attention, I undertake an ecological analysis of online communities, measuring the location of communities both in a structural resource space of users as well as in a cultural topic space based on language. In
-line with past work, I find that the most generic communities attract the bulk of attention. However, my study identifies a new pattern: by examining community location in the ecology, I find that niche communities are not relegated to the periphery of the ecology, but rather can succeed in the very center, right next to the most dominant, generic communities. This suggests a significant difference in how the allocation of attention occurs online, and a means through which online platforms provide space for culturally diverse communities to flourish.
+The internet promised to facilitate cultural exploration by loosening structural constraints, but research has found that attention allocation online resembles offline patterns in which a few generic communities attract the bulk of attention while specialty communities remain small. Past work focused on analyzing the distribution of attention—not accounting for individuals’ ability to engage simultaneously with multiple communities online. Using data from the online platform
+Reddit, I leverage an ecological perspective to examine connections between online communities by independently measuring the position of communities in a structural space, based on membership, and a cultural space, based on content. I find that, rather than relying on a primarily separate set of individuals than generic communities like in the offline world, specialty
+communities can share members with even the largest, most generic communities online, reflecting cultural exploration at the individual level and connections between culturally distinct communities.
 
 
-Download the latest copy of my job market paper <a href="https://jmellody.github.io/files/Mellody_Attention_Allocation.pdf" target="_blank">here.</a>
+Download the latest copy of my job market paper <a href="https://jmellody.github.io/files/Mellody_Allocating_Attention.pdf" target="_blank">here.</a>
 
 # Papers Under Review
 
