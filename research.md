@@ -7,26 +7,32 @@ redirect_from:
   - /research
 ---
 
-# Job Market Paper
+# Publications
+
+## Concerted Quantification: How Expert Teams Reconcile Overwork and Client Satisfaction (with Vanessa Conzon)
+
+### Conditionally Accepted at *Organization Science*
+
+White-collar employees are increasingly overworking, with negative individual and organizational consequences. Pressures for long intense hours often come from clients and are reinforced by coworkers’ concertive controls, and the increasing quantification of work has, in many cases, tightened such controls. We examine if and how employees might rely upon quantification to, in contrast, limit overwork. We draw on data from a 21-month ethnography of teams of IT professionals who work for clients in finance. We find that while these workers faced pressure to overwork, they managed this tension through a process we label “concerted quantification.” In this process, team members commensurate tasks into smaller numeric units that are then summed into a larger numeric figure that represents the work the team will accomplish in a two-week period. They then leverage this quantification in two ways: to openly justify maintaining their workload, particularly when facing peer pressure to take on more work, by pointing to numbers as collective, codified team decisions; and to obscure work changes from clients. To support these actions, workers legitimize quantification to clients. Overall, we find that quantifying processes both (a) help teams determine an appropriate amount of work to take on without engaging in overwork, and (b) set clients’ expectations of success in this context of expert, professional work. We contribute to research on overwork, concertive control, and quantification by highlighting how quantification, through opaqueness and transparency, can allow white-collar workers to limit overwork.
+
+# Under Review
+
+## [Title omitted for peer review] (with Ezra Zuckerman Sivan and Catresa Barlow)
+
+We develop and test the longstanding sociological conjecture that the social construction of the seven-day week is reproduced via a deeply internalized sense of temporal orientation resulting from subtle social cues. The rare opportunity for such a test arises from the combination of a) mass quarantine at the onset of the COVID-19 pandemic, which muted the distinct cues associated with the days of the week; and b) the popularity of a social media platform (Twitter) where millions seek real-time social validation for their experience. We find that in the wake of the pandemic lockdowns, expressions of temporal disorientation spiked; that such disorientation was primarily expressed as confusion as to the day of the week; and that the otherwise notable contrast between weekend and weekday was insignificant. We also find a minor version of this “blursday” effect outside the pandemic, as a result of mid-week holidays. Finally, we advance theory on temporal consciousness by showing that whereas the pandemic onset elicited a spike in “disorientation consciousness,” the key political moments of early 2021 (the Capitol Insurrection and the inauguration of President Biden) elicited expressions of historical consciousness.
+
+# Working Papers
 
 ## Allocating Attention: Cultural Exploration in Online Communities
 
 The internet promised to facilitate cultural exploration by loosening structural constraints, but research has found that attention allocation online resembles offline patterns in which a few generic communities attract the bulk of attention while specialty communities remain small. Past work focused on analyzing the distribution of attention—not accounting for individuals’ ability to engage simultaneously with multiple communities online. Using data from the online platform
-Reddit, I leverage an ecological perspective to examine connections between online communities by independently measuring the position of communities in a structural space, based on membership, and a cultural space, based on content. I find that, rather than relying on a primarily separate set of individuals than generic communities like in the offline world, specialty
-communities can share members with even the largest, most generic communities online, reflecting cultural exploration at the individual level and connections between culturally distinct communities.
-
+Reddit, I leverage an ecological perspective to examine connections between online communities by independently measuring the position of communities in a structural space, based on membership, and a cultural space, based on content. I find that, rather than relying on a primarily separate set of individuals than generic communities like in the offline world, specialty communities can share members with even the largest, most generic communities online, reflecting cultural exploration at the individual level and connections between culturally distinct communities.
 
 Download the latest copy of my job market paper <a href="https://jmellody.github.io/files/Mellody_Allocating_Attention.pdf" target="_blank">here.</a>
 
-# Papers Under Review
+## Cheap Talk: Coordinating and Fracturing Collective Action through Language
 
-## Concerted Quantification: How Expert Teams Reconcile Overwork and Client Satisfaction (with Vanessa Conzon)
-
-### R&R at *Organization Science*
-
-White-collar employees are increasingly overworking, with negative individual and organizational consequences. Pressures for long intense hours often come from clients and are reinforced by coworkers’ concertive controls, and the increasing quantification of work has, in many cases, tightened such controls. We examine if and how employees might rely upon quantification to, in contrast, limit overwork. We draw on data from a 21-month ethnography of teams of IT professionals who work for clients in finance. We find that while these workers faced pressure to overwork, they managed this tension through a process we label “concerted quantification.” In this process, team members commensurate tasks into smaller numeric units that are then summed into a larger numeric figure that represents the work the team will accomplish in a two-week period. They then leverage this quantification in two ways: to openly justify maintaining their workload, particularly when facing peer pressure to take on more work, by pointing to numbers as collective, codified team decisions; and to obscure work changes from clients. To support these actions, workers legitimize quantification to clients. Overall, we find that quantifying processes both (a) help teams determine an appropriate amount of work to take on without engaging in overwork, and (b) set clients’ expectations of success in this context of expert, professional work. We contribute to research on overwork, concertive control, and quantification by highlighting how quantification, through opaqueness and transparency, can allow white-collar workers to limit overwork.
-
-# Working Papers
+Research on collective action highlights the importance of language in motivating participation and coordinating action. I argue that language which is effective at motivating and coordinating new joiners can also play a role in fracturing the collective. This is because the synthesis required to succinctly pitch a cause can overly simplify its core tenets. New joiners can quickly understand and easily signal their participation in a cause by engaging in this “cheap talk”—but their understanding and participation may be surface level, aligned with a particular element of the cause but critically misaligned with the broader culture of the existing group. I study this phenomenon in the context of the 2021 short squeeze of the GameStop stock. I leverage data from the Reddit community r/wallstreetbets, where the short squeeze was largely coordinated. I find that the usage of meme language increased leading up to the short squeeze, and that new joiners adopted this language more quickly and with more intensity than pre-existing users. While this talk facilitated an increase in membership and coordination around the time of the short squeeze, it became a source of contention in the months and years after the squeeze, transforming into a cultural fault line distinguishing hype-driven “meme” investors from pre-existing community members.
 
 ## Narrating Value: How Staff Professionals Form Embedded Relationships with Line Workers
 
@@ -38,13 +44,11 @@ Organizations face two main options for managing diversity: a “colorblind” a
 
 # Works in Progress
 
-“Collective Action Online: Networks and Language of a Virtual Investor Movement.”
-
 “Sources of Cultural Change in Online Communities.”
 
 “Keeping Time: Interaction Scripts as Coordinating Mechanisms for Self-Organizing Teams.” (with Vanessa Conzon) 
 
-“What Day is It and Who Cares about the Date? Social Media Expressions of Temporal Disorientation Before and After Pandemic Onset.” (with Ezra Zuckerman Sivan and Catresa Barlow)
+
 
 
 
