@@ -42,6 +42,9 @@ This paper examines how staff professionals can form embedded relationships with
 
 ## [Paper on temporal disorientation during the COVID-19 Pandemic] (with Ezra Zuckerman Sivan and Catresa Barlow)
 
+## Remote Consensus is an Oxymoron: Lessons Learned from Pandemic-Era Scientists’ Deliberation Practices. (with Janet Vertesi)
+
+<br>
 
 
 # WORKS IN PROGRESS
@@ -50,7 +53,7 @@ This paper examines how staff professionals can form embedded relationships with
 
 Research on collective action highlights the importance of language in motivating participation and coordinating action. I argue that language which is effective at motivating and coordinating new joiners can also play a role in fracturing the collective. This is because the synthesis required to succinctly pitch a cause can overly simplify its core tenets. New joiners can quickly understand and easily signal their participation in a cause by engaging in this “cheap talk”—but their understanding and participation may be surface level, aligned with a particular element of the cause but critically misaligned with the broader culture of the existing group. I study this phenomenon in the context of the 2021 short squeeze of the GameStop stock. I leverage data from the Reddit community r/wallstreetbets, where the short squeeze was largely coordinated. I find that the usage of meme language increased leading up to the short squeeze, and that new joiners adopted this language more quickly and with more intensity than pre-existing users. While this talk facilitated an increase in membership and coordination around the time of the short squeeze, it became a source of contention in the months and years after the squeeze, transforming into a cultural fault line distinguishing hype-driven “meme” investors from pre-existing community members.
 
-## “Keeping Time: Interaction Scripts as Coordinating Mechanisms for Self-Organizing Teams.” (with Vanessa Conzon) 
+## Keeping Time: Interaction Scripts as Coordinating Mechanisms for Self-Organizing Teams. (with Vanessa Conzon) 
 
 
 
