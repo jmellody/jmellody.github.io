@@ -42,6 +42,8 @@ This paper examines how staff professionals can form embedded relationships with
 
 ## [Paper on temporal disorientation during the COVID-19 Pandemic] (with Ezra Zuckerman Sivan and Catresa Barlow)
 
+
+
 # Works in Progress
 
 ## Cheap Talk: Coordinating and Fracturing Collective Action through Language
