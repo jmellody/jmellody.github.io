@@ -21,7 +21,7 @@ White-collar employees are increasingly overworking, with negative individual an
 
 I investigate the conditions under which groups value agreement versus dissent in collective decision making processes. I argue that which kind of contribution a group values more will depend on the strength of the consensus. As a consensus evolves from weak to moderate to strong, I predict that groups will prefer agreement, dissent, and then agreement again. These predictions are in line with a multi-phase decision-making process in which groups pursue sequential goals reflected in the evolving consensus: establishing an initial consensus, exploring alternative perspectives, and settling on a final decision. I find support for these predictions using data from the Reddit community r/AmItheAsshole, in which people make normative judgments of social situations
 
-PDF available here: <a href="https://jmellody.github.io/files/AITA.pdf" target="_blank">here.</a>
+PDF available <a href="https://jmellody.github.io/files/AITA.pdf" target="_blank">here.</a>
 
 ## [Paper on Organizational Approaches to Managing Diversity] (with Ray E. Reagans)
 
@@ -34,7 +34,7 @@ Organizations face two main options for managing diversity: a “colorblind” a
 The internet promised to facilitate cultural exploration by loosening structural constraints, but research has found that attention allocation online resembles offline patterns in which a few generic communities attract the bulk of attention while specialty communities remain small. Past work focused on analyzing the distribution of attention—not accounting for individuals’ ability to engage simultaneously with multiple communities online. Using data from the online platform
 Reddit, I leverage an ecological perspective to examine connections between online communities by independently measuring the position of communities in a structural space, based on membership, and a cultural space, based on content. I find that, rather than relying on a primarily separate set of individuals than generic communities like in the offline world, specialty communities can share members with even the largest, most generic communities online, reflecting cultural exploration at the individual level and connections between culturally distinct communities.
 
-PDF available here: <a href="https://jmellody.github.io/files/Mellody_Allocating_Attention.pdf" target="_blank">here.</a>
+PDF available <a href="https://jmellody.github.io/files/Mellody_Allocating_Attention.pdf" target="_blank">here.</a>
 
 ## Narrating Value: How Staff Professionals Form Embedded Relationships with Line Workers
 
