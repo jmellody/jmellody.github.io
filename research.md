@@ -21,7 +21,7 @@ White-collar employees are increasingly overworking, with negative individual an
 
 I investigate the conditions under which groups value agreement versus dissent in collective decision making processes. I argue that which kind of contribution a group values more will depend on the strength of the consensus. As a consensus evolves from weak to moderate to strong, I predict that groups will prefer agreement, dissent, and then agreement again. These predictions are in line with a multi-phase decision-making process in which groups pursue sequential goals reflected in the evolving consensus: establishing an initial consensus, exploring alternative perspectives, and settling on a final decision. I find support for these predictions using data from the Reddit community r/AmItheAsshole, in which people make normative judgments of social situations
 
-PDF available <a href="https://jmellody.github.io/files/AITA.pdf" target="_blank">here.</a>
+PDF available <a href="https://jmellody.github.io/files/AITA_small.pdf" target="_blank">here.</a>
 
 ## [Paper on Organizational Approaches to Managing Diversity] (with Ray E. Reagans)
 
