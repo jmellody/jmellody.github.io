@@ -31,7 +31,7 @@ Organizations face two main options for managing diversity: a “colorblind” a
 
 # WORKING PAPERS
 
-## [1] Allocating Attention: Cultural Exploration in Online Communities
+## [1] <a href="https://jmellody.github.io/files/Mellody_Allocating_Attention.pdf" target="_blank">Allocating Attention: Cultural Exploration in Online Communities</a>
 
 The internet promised to facilitate cultural exploration by loosening structural constraints, but research has found that attention allocation online resembles offline patterns in which a few generic communities attract the bulk of attention while specialty communities remain small. Past work focused on analyzing the distribution of attention—not accounting for individuals’ ability to engage simultaneously with multiple communities online. Using data from the online platform
 Reddit, I leverage an ecological perspective to examine connections between online communities by independently measuring the position of communities in a structural space, based on membership, and a cultural space, based on content. I find that, rather than relying on a primarily separate set of individuals than generic communities like in the offline world, specialty communities can share members with even the largest, most generic communities online, reflecting cultural exploration at the individual level and connections between culturally distinct communities.
