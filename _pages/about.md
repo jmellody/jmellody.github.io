@@ -10,7 +10,7 @@ profile:
   image: prof_pic_small.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
-    <p><a href="mailto:jamesmellody@princeton.edu">jamesmellody@princeton.edu</a></p>
+    <p><a href="mailto:jamescmellody@gmail.com">jamescmellody@gmail.com</a></p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,7 +24,7 @@ announcements:
 ---
 <div style="font-size: 1.5rem; line-height: 1.5;">
   <p>
-    I am a Postdoctoral Research Associate at the 
+    I am a Data Scientist at Lyft, working on the Mapping team. Previously, I was a Postdoctoral Research Associate at the 
     <a href="https://citp.princeton.edu/" target="_blank" rel="noopener noreferrer">
       Center for Information Technology Policy
     </a> 
