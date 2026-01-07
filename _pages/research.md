@@ -12,6 +12,12 @@ nav_order: 2
 ## Publications
 
 {% include research.liquid 
+    title="Whether Groups Value Agreement or Dissent Depends on the Strength of Consensus" 
+    image="/assets/img/groups_dissent_consensus.png" 
+    url_link="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334850"
+    abstract="I investigate the conditions under which groups value agreement versus dissent in collective decision-making processes. I argue that which kind of contribution a group values more will depend on the strength of the consensus. As a consensus evolves from weak to moderate to strong, I predict that groups will prefer agreement, dissent, and then agreement again. These predictions are in line with a multi-phase decision-making process in which groups pursue sequential goals reflected in the evolving consensus: establishing an initial consensus, exploring alternative perspectives, and settling on a final decision. I test these predictions with data from the Reddit community r/AmItheAsshole, in which people make normative judgments of social situations. I find support for the predicted pattern, with one caveat: when the consensus is strong, groups exhibit no preference for agreement or dissent." %}
+
+{% include research.liquid 
     title="Concerted Quantification: How Knowledge Workers Limit Overwork While Maintaining Client Satisfaction" 
     coauthors="Vanessa M. Conzon" 
     image="/assets/img/concerted_quantification.jpg" 
@@ -27,12 +33,6 @@ nav_order: 2
     image="/assets/img/long_tale.jpg" 
     pdf_link="/assets/pdf/long_tale.pdf" 
     abstract="The internet promised to facilitate cultural exploration, but research has found that attention allocation online resembles offline patterns in which generic communities targeting mass-market tastes attract the bulk of attention while a long tail of specialty communities targeting niche tastes remains under resourced. While past work examined how much attention different communities attracted, I instead examine the connections that form among different communities online as a function of lower structural constraints on exploration. Using data from Reddit, I independently measure the position of communities in a structural space based on membership, and a cultural space based on content. In contrast to many offline settings, I find that specialty communities online share members with even the largest, most generic communities—connections among culturally distinct communities that emerge from capturing the attention of the same users in different ways—cross-pollination that can increase exposure to niche tastes and fuel further cultural exploration." %}
-
-{% include research.liquid 
-    title="Whether Groups Value Agreement or Dissent Depends on the Strength of Consensus" 
-    image="/assets/img/groups_dissent_consensus.png" 
-    pdf_link="/assets/pdf/groups_dissent_consensus.pdf" 
-    abstract="I investigate the conditions under which groups value agreement versus dissent in collective decision making processes. I argue that which kind of contribution a group values more will depend on the strength of the consensus. As a consensus evolves from weak to moderate to strong, I predict that groups will prefer agreement, dissent, and then agreement again. These predictions are in line with a multi-phase decision-making process in which groups pursue sequential goals reflected in the evolving consensus: establishing an initial consensus, exploring alternative perspectives, and settling on a final decision. I find support for these predictions using data from the Reddit community r/AmItheAsshole, in which people make normative judgments of social situations." %}
 
 {% include research.liquid 
     title="Beyond Representation: Extending the Effectiveness of Diversity Approaches via Individuation" 
