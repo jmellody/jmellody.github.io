@@ -12,6 +12,12 @@ nav_order: 2
 ## Publications
 
 {% include research.liquid 
+    title="The Long Tale of the Long Tail: The Internet as Counterforce to Cultural Homogeneity" 
+    image="/assets/img/long_tale.jpg" 
+    url_link="https://journals.sagepub.com/doi/abs/10.1177/14614448261454335"
+    abstract="The internet promised to counter cultural homogeneity by enabling niche content to find a larger audience, but attention online often resembles offline patterns in which generic cultural forms attract the bulk of attention while a long tail of niche forms remains under resourced. I argue that understanding the internet’s potential to sustain cultural diversity requires moving beyond studying audience size to consider the mode and location of attention capture. Leveraging longitudinal data from Reddit, I find that communities that shift toward niche content find success not by attracting larger audiences, but instead by capturing deeper engagement in high-traffic hubs shared with the platform’s largest, most visible communities. This is in contrast to offline settings, where niche forms survive only in the periphery. These findings suggest that the internet offers a counterforce to cultural homogeneity in which niche content becomes more accessible and visible within the centers of digital attention." %}
+
+{% include research.liquid 
     title="Whether Groups Value Agreement or Dissent Depends on the Strength of Consensus" 
     image="/assets/img/groups_dissent_consensus.png" 
     url_link="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334850"
@@ -27,12 +33,6 @@ nav_order: 2
 ---
 
 ## Under Review
-
-{% include research.liquid 
-    title="The Long Tale of the Long Tail: The Internet as Counterforce to Cultural Homogeneity" 
-    image="/assets/img/long_tale.jpg" 
-    pdf_link="/assets/pdf/long_tale.pdf" 
-    abstract="The internet promised to facilitate cultural exploration, but research has found that attention allocation online resembles offline patterns in which generic communities targeting mass-market tastes attract the bulk of attention while a long tail of specialty communities targeting niche tastes remains under resourced. While past work examined how much attention different communities attracted, I instead examine the connections that form among different communities online as a function of lower structural constraints on exploration. Using data from Reddit, I independently measure the position of communities in a structural space based on membership, and a cultural space based on content. In contrast to many offline settings, I find that specialty communities online share members with even the largest, most generic communities—connections among culturally distinct communities that emerge from capturing the attention of the same users in different ways—cross-pollination that can increase exposure to niche tastes and fuel further cultural exploration." %}
 
 {% include research.liquid 
     title="Beyond Representation: Extending the Effectiveness of Diversity Approaches via Individuation" 
